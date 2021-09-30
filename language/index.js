@@ -1,0 +1,7 @@
+exports.ind = require('./ind')
+exports.si = require('./si')
+exports.eng = require('./eng')
+exports.es = require('./es')
+exports.ml = require('./ml')
+exports.pt = require('./pt-br')
+exports.ru = require('./ru')
