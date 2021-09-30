@@ -43,7 +43,6 @@
  es-es     Spanish (Spain)
  es-us     Spanish (United States)
  sw        Swahili
- si        Sinhala
  sv        Swedish
  ta        Tamil
  th        Thai

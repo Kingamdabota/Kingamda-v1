@@ -4,155 +4,155 @@
    *
 */
 exports.wait = () => {
-	return `\`\`\`[ ! ] පොඩ්ඩක් ඉන්න...\`\`\``
+	return `\`\`\`[ ! ] Tunggu sebentar...\`\`\``
 	}
 exports.success = () => {
-	return `\`\`\`[ ✓ ]\`\`\` ඉවරයි ...`
+	return `\`\`\`[ ✓ ]\`\`\` Selesai ...`
 	}
 exports.successBc = () => {
-	return `\`\`\`[ ✓ ]\`\`\` Broadcast එක සාර්තකයි`
+	return `\`\`\`[ ✓ ]\`\`\` Sukses Broadcast`
 	}
 exports.wrongFormat = () => {
-	return `\`\`\`[ x ]\`\`\` Format එක වැරදි, අපහු චෙක් කරලා බලන්න`
+	return `\`\`\`[ x ]\`\`\` Format salah, coba cek lagi di menu`
 	}
 exports.erorStik = () => {
-	return `\`\`\`[ x ]\`\`\` මෙක ස්ටිකරයක් නෙවෙයිනෙ4 බුන්ගා.`
+	return `\`\`\`[ x ]\`\`\` Itu bukan stiker`
 	}
 exports.tagStik = () => {
-	return `\`\`\`[ x ]\`\`\` Reply/tag කරන්න ස්ටිකරෙකට`
+	return `\`\`\`[ x ]\`\`\` Reply/tag stiker nya`
 	}
 exports.erorLink = () => {
-	return `\`\`\`[ x ]\`\`\` ලින්ක් එක වැරදි බුන්ගා`
+	return `\`\`\`[ x ]\`\`\` Linknya invalid`
 	}
 exports.onlygc = () => {
-	return `\`\`\`[ x ]\`\`\` මෙ කමාන්ඩ් එක වැඩ කරන්නෙ Group වල විතරයි බුන්ගා`
+	return `\`\`\`[ x ]\`\`\` Khusus Group`
 	}
 exports.onlyOwner = () => {
-	return `\`\`\`[ x ]\`\`\` මෙක බොට් අයිතිකාරයගෙ කමාන්ඩ් එකක් බුන්ග`
+	return `\`\`\`[ x ]\`\`\` Khusus Owner Bot`
 	}
 exports.benned = () => {
-	return `\`\`\`[ x ]\`\`\` සොරි ඔයගෙ නම්බරෙ බ්ලොක් කරලා`
+	return `\`\`\`[ x ]\`\`\` Maaf, nomor kamu telah di blokir`
 	}
 exports.onlygcAdmin = () => {
-	return `\`\`\`[ x ]\`\`\` මෙක ඇඩ්මින් විඩානයක්`
+	return `\`\`\`[ x ]\`\`\` Khusus Admin grup`
 	}
 exports.cariCecan = () => {
-	return `\`\`\`[ ! ]\`\`\` සොයමින් පවති`
+	return `\`\`\`[ ! ]\`\`\` Mencari cecan`
 	}
 exports.cariCogan = () => {
-	return `\`\`\`[ ! ]\`\`\` සොයමින් පවති`
+	return `\`\`\`[ ! ]\`\`\` Mencari cogan`
 	}
 exports.pesanBot = () => {
-	return `\`\`\`[ x ]\`\`\` බොට් ගෙ මැසෙජ් එකට රිප්ලයි කරන්න`
+	return `\`\`\`[ x ]\`\`\` Reply pesan botnya`
 	}
 exports.replyFoto = () => {
-	return `\`\`\`[ x ]\`\`\` පොටො එකකට රිප්ලයි කරන්න බුන්ගා`
+	return `\`\`\`[ x ]\`\`\` Reply fotonya`
 	}
 exports.tagUser = () => {
-	return `\`\`\`[ x ]\`\`\` කව්රු හරි Tag කරන්න @user`
+	return `\`\`\`[ x ]\`\`\` Tag @user`
 	}
 exports.noReply = () => {
-	return `\`\`\`[ x ]\`\`\` ඔබ පිළිතුරු දුන් පණිවිඩයේ පිළිතුරක් නොතිබුණි`
+	return `\`\`\`[ x ]\`\`\` Pesan yang kamu reply tidak mengandung reply`
 	}
 exports.changeNmGc = () => {
-	return `\`\`\`[ ✓ ]\`\`\` සාර්තකව Group නම වෙනස් කරන ලදි`
+	return `\`\`\`[ ✓ ]\`\`\` Sukses  Mengubah Nama Grup`
 	}
 exports.changeDeskGc = () => {
-	return `\`\`\`[ ✓ ]\`\`\` සාර්තකව Group Description වෙනස් කරන ලදි`
+	return `\`\`\`[ ✓ ]\`\`\` Sukses  Mengubah Desk Grup`
 	}
 exports.spam = (prefix, command) => {
-	return `\`\`\`[ x ]\`\`\` උදා- ${prefix + command} text|amount`
+	return `\`\`\`[ x ]\`\`\` Example ${prefix + command} teks|jumlah`
 	}
 exports.tahta = (prefix, command) => {
-	return `\`\`\`[ x ]\`\`\` උදා- ${prefix + command} King|amda`
+	return `\`\`\`[ x ]\`\`\` Example ${prefix + command} zeeone|ofc`
 	}
 exports.noteks = (prefix, command) => {
-	return `\`\`\`[ x ]\`\`\` උදා- ${prefix + command} King Amda`
+	return `\`\`\`[ x ]\`\`\` Example ${prefix + command} zeeone`
 	}
 exports.botNotAdm = () => {
-	return `මාව ඇඩිමින් කරපල්ලා`
+	return `Jadikan bot sebagai admin u/ menggunakan perintah ini`
 	}
 exports.tryAgain = () => {
-	return `\`\`\`[ x ]\`\`\`  අසාර්තකයි, නැවත උත්සහ කරන්න ^_^`
+	return `\`\`\`[ x ]\`\`\`  Gagal, coba ulangi ^_^`
 	}
 exports.anlinOn = () => {
-	return `\`\`\`[ ✓ ]\`\`\` Antilink සක්‍රියයි`
+	return `\`\`\`[ ✓ ]\`\`\` Antilink Di Aktifkan`
 	}
 exports.anlinOff = () => {
-	return `\`\`\`[ ✓ ]\`\`\` Antilink අක්‍රියයි`
+	return `\`\`\`[ ✓ ]\`\`\` Antilink Di Nonaktifkan`
 	}
 exports.notregis = (prefix, sender) => {
-	return `Hai @${sender.split("@")[0]} ඔබ දත්ත ගබඩාවේ ලියාපදිංචි වී නැත, කරුණාකර ටයිප් කරන්න ${prefix}verify`
+	return `Hai @${sender.split("@")[0]} kamu belum terdaftar di database, silahkan ketik ${prefix}verify\n\nKamu juga bisa daftar dengan cara mengirimkan kode verifikasi dari web api\nhttps://api-alphabot.herokuapp.com/api/verification`
 	}
 exports.udahregis = (pushname) => {
-	return `හායි ${pushname} ඔබ දැනටමත් දත්ත ගබඩාවේ ලියාපදිංචි වී ඇත`
+	return `Hai ${pushname} kamu sudah terdaftar di database`
 	}
 exports.enNum = () => {
- return `\`\`\`[ x ]\`\`\` නම්බරෙ හරිටය දෙන්න`
+ return `\`\`\`[ x ]\`\`\` Masukan Angka Dengan Benar`
  }
 exports.adminGc = () => {
- return `ඔබ පරිපාලක නිසා බොට් ඔබව ඉවත් නොකරයි`
+ return `Karena kamu adalah admin jadi bot tidak akan mengeluarkan kamu`
  }
  exports.izinDt = () => {
- return `Permission accepted`
+ return `Izin diterima`
  }
  exports.anjawaOn = (command) => {
-	return `\`\`\`[ ✓ ]\`\`\` ${command} Activated`
+	return `\`\`\`[ ✓ ]\`\`\` ${command} Di Aktifkan`
 	}
 exports.anjawaOff = (command) => {
-	return `\`\`\`[ ✓ ]\`\`\` ${command} Disabled`
+	return `\`\`\`[ ✓ ]\`\`\` ${command} Di Nonaktifkan`
 	}
 exports.anjawaUdhOn = (command) => {
-	return `\`\`\`[ ✓ ]\`\`\` ${command} been active before`
+	return `\`\`\`[ ✓ ]\`\`\` ${command} sudah aktif`
 	}
 exports.anjawaUdhOon = (command) => {
-	return `Select on to activate, off to disable`
+	return `Pilih on untuk mengaktifkan, off untuk menonaktifkan`
 	}
 exports.onORoff = (command) => {
-	return `Select on to activate, off to disable`
+	return `Pilih on untuk mengaktifkan, off untuk menonaktifkan`
 	}
 exports.gcOpen = (command) => {
-	return `\`\`\`[ ✓ ]\`\`\` ${command} Successfully group ය විවෘර්ත කරන ලදි `
+	return `\`\`\`[ ✓ ]\`\`\` ${command} Berhasil membuka grup`
 	}
 exports.gcClose = (command) => {
-	return `\`\`\`[ ✓ ]\`\`\` ${command} Successfully  group ය වසන ලදි `
+	return `\`\`\`[ ✓ ]\`\`\` ${command} Berhasil Menutup grup`
 	}
 exports.nsfwmo= () => {
-	return `හුජ්ජ කොලොන්ට මොනටද මෙවා, contact the bot owner to activate it`
+	return `Fitur nsfw belum di aktifkan, hubungi owner bot u/ mengaktifkan`
 	}
 exports.erorCode = () => {
- return `ඔබ ඇතුළත් කළ කේතය වැරදියි, කරුණාකර නැවත පරීක්‍ෂා කරන්න\n`
+ return `Kode yang anda masukkan salah silahkan cek kembali\nhttps://api-alphabot.herokuapp.com/api/verification`
  }
  exports.callOwner = () => {
- return `මෙම විශේෂාංගය භාවිතා කිරීමට අයිතිකරු අමතන්න`
+ return `Hubungi owner untuk menggunakan fitur ini`
  }
  //vote
 exports.noSesiVote = () => {
- 	return`No voting session`
+ 	return`Tidak ada sesi voting`
  }
 exports.suksesDelVot = () => {
-	return`Successfully Deleting Voting Session In This Group`
+	return`Sukses Menghapus sesi Voting Di Grup Ini`
 	}
 exports.adaVoting = () => {
-	return`Voting Session In Progress In This Group`
+	return`Sesi Voting Sedang Berlangsung Di Grup Ini`
 	}
 exports.caraVoting = (prefix, command) => {
-    return`*Voting*\n\n${prefix + command} @tag target | reason  | 1 (1 = 1 Minute)`
+    return`*Voting*\n\n${prefix + command} @tag target | reason  | 1 (1 = 1 Menit)`
     }
 exports.caraVot = () => {
- 	return`Enter number in line 3\nContoh: 1-9999\n1 = 1 Minute`
+ 	return`masukan angka di baris ke 3\nContoh: 1-9999\n1 = 1 Menit`
     }
 //ttt
 exports.noSesiTtt = () =>{
-	return`There is no tictactoe session in this group`
+	return`Tidak ada sesi tictactoe di grup ini`
 	}
 exports.suksesDelTtt = () =>{
-	return`Successfully deleted tictactoe session in this group`
+	return`Berhasil menghapus sesi tictactoe di grup ini`
 	}
 //on & off
 exports.ownerOff = () =>{
-	return`මගේ අයිතිකරු  has been off`
+	return`Owner saya telah off`
 	}
 exports.ownerOn = () =>{
-	return`මගේ අයිතිකරු  is back on`
+	return`Owner saya kembali on`
 	}
