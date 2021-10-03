@@ -1,8 +1,8 @@
 {
-  "name": "Alphabot",
+  "name": "KingAmda",
   "version": "0.0.7",
   "description": "WhatsApp bot",
-  "zeeone": "zeeone.js",
+  "zeeone": "kingamda.js",
   "directories": {
     "lib": "lib"
   },
@@ -41,7 +41,7 @@
     "yt-search": "^2.7.6"
   },
   "scripts": {
-    "start": "node zeeone",
+    "start": "node kingamda",
     "test": "supervisor main"
   },
   "repository": {
@@ -51,7 +51,7 @@
   "keywords": [
     "botwea"
   ],
-  "author": "ZEEONE",
+  "author": "PASINDU SAMARASINGHA",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kingamdabota"
