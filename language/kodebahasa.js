@@ -49,5 +49,6 @@
  tr        Turkish
  vi        Vietnamese
  cy        Welsh
+ sin       sinhala
  n  
  /*

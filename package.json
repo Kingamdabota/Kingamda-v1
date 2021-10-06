@@ -1,7 +1,7 @@
 {
-  "name": "KingAmda",
-  "version": "0.0.7",
-  "description": "WhatsApp bot",
+  "name": "kingamda",
+  "version": "0.0.1",
+  "description": "King Amda WhatsApp bot",
   "zeeone": "kingamda.js",
   "directories": {
     "lib": "lib"
