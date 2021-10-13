@@ -73,11 +73,11 @@ message: {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us",
           "https://h.top4top.io/p_2099hmfye1.png";
       }
         teks = `*Welcome @${num.split('@')[0]}* ${enter}${enter}
-        \*◩ නම්බරේ\* : _${anu_user}_${enter}
-        \*◩ Bio එක\*: _${p3}_${enter}
-        \*◩ නම්බරෙ Save කරලා තියන විදිහ\* : _@${num.split('@')[0]}_${enter}
-        \*◩ මුලු සමාජිකයන් ගණන\* : _${memeg} Member (s)_${enter}${enter}
-        \`\`\`මතක ඇතුව group description කියවල වැඩෙ පටන් ගන්න😁😁\`\`\``;
+\*◩ නම්බරේ\* : _${anu_user}_${enter}
+\*◩ Bio එක\*: _${p3}_${enter}
+\*◩ නම්බරෙ Save කරලා තියන විදිහ\* : _@${num.split('@')[0]}_${enter}
+\*◩ මුලු සමාජිකයන් ගණන\* : _${memeg} Member (s)_${enter}${enter}
+\`\`\`මතක ඇතුව group description කියවල වැඩෙ පටන් ගන්න😁😁\`\`\``;
         buff = await getBuffer(pp_user)
          var _0xcd41=["\x65\x73\x63\x65\x73\x69\x61\x70\x61","\x57\x65\x6C\x63\x6F\x6D\x65\uD83D\uDC4B","\x69\x6D\x61\x67\x65\x4D\x65\x73\x73\x61\x67\x65","\x70\x72\x65\x70\x61\x72\x65\x4D\x65\x73\x73\x61\x67\x65\x4D\x65\x64\x69\x61","","\x45\x6E\x6A\x6F\x79\x20\u2615","\x69\x64","\x70\x72\x65\x70\x61\x72\x65\x4D\x65\x73\x73\x61\x67\x65\x46\x72\x6F\x6D\x43\x6F\x6E\x74\x65\x6E\x74","\x72\x65\x6C\x61\x79\x57\x41\x4D\x65\x73\x73\x61\x67\x65"];buttons= [{buttonId:`${_0xcd41[0]}`,buttonText:{displayText:_0xcd41[1]},type:1}];imageMsg= ( await alpha[_0xcd41[3]](buff,_0xcd41[2],{thumbnail:buff}))[_0xcd41[2]];buttonsMessage= {contentText:`${_0xcd41[4]}${teks}${_0xcd41[4]}`,footerText:_0xcd41[5],imageMessage:imageMsg,buttons:buttons,headerType:4};prep=  await alpha[_0xcd41[7]](mdata[_0xcd41[6]],{buttonsMessage},{contextInfo:{"\x6D\x65\x6E\x74\x69\x6F\x6E\x65\x64\x4A\x69\x64":[num],"\x66\x6F\x72\x77\x61\x72\x64\x69\x6E\x67\x53\x63\x6F\x72\x65":999,"\x69\x73\x46\x6F\x72\x77\x61\x72\x64\x65\x64":true},sendEphemeral:true});alpha[_0xcd41[8]](prep)
       }
@@ -91,9 +91,9 @@ message: {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us",
           "https://j.top4top.io/p_2099ucfox1.jpg";
       }
         out = `◪ Goodbye @${num.split('@')[0]}${enter}
-        ◪ Leave from group:${enter}
+◪ Leave from group:${enter}
         ${mdata.subject}${enter}${enter}
-        \*◩ බොට් ගෙ මැසෙජ් එක\* :යනවනම් පලයන් රෙද්ද🤬`;
+\*◩ බොට් ගෙ මැසෙජ් එක\* :යනවනම් පලයන් රෙද්ද🤬`;
         buff = await getBuffer(pp_user);
           var _0x4091=["\x65\x73\x63\x65\x73\x69\x61\x70\x61","\x47\x6F\x6F\x64\x62\x79\x65\x20\uD83D\uDC4B","\x69\x6D\x61\x67\x65\x4D\x65\x73\x73\x61\x67\x65","\x70\x72\x65\x70\x61\x72\x65\x4D\x65\x73\x73\x61\x67\x65\x4D\x65\x64\x69\x61","","\x44\x6F\x6E\x27\x74\x20\x63\x6F\x6D\x65\x20\x62\x61\x63\x6B\x20\x68\x65\x72\x65\x20\x61\x67\x61\x69\x6E","\x69\x64","\x70\x72\x65\x70\x61\x72\x65\x4D\x65\x73\x73\x61\x67\x65\x46\x72\x6F\x6D\x43\x6F\x6E\x74\x65\x6E\x74","\x72\x65\x6C\x61\x79\x57\x41\x4D\x65\x73\x73\x61\x67\x65"];buttons= [{buttonId:`${_0x4091[0]}`,buttonText:{displayText:_0x4091[1]},type:1}];imageMsg= ( await alpha[_0x4091[3]](buff,_0x4091[2],{thumbnail:buff}))[_0x4091[2]];buttonsMessage= {contentText:`${_0x4091[4]}${out}${_0x4091[4]}`,footerText:_0x4091[5],imageMessage:imageMsg,buttons:buttons,headerType:4};prep=  await alpha[_0x4091[7]](mdata[_0x4091[6]],{buttonsMessage},{contextInfo:{"\x6D\x65\x6E\x74\x69\x6F\x6E\x65\x64\x4A\x69\x64":[num],"\x66\x6F\x72\x77\x61\x72\x64\x69\x6E\x67\x53\x63\x6F\x72\x65":999,"\x69\x73\x46\x6F\x72\x77\x61\x72\x64\x65\x64":true},sendEphemeral:true});alpha[_0x4091[8]](prep)
       } else if (anu.action == 'promote') {
@@ -107,9 +107,9 @@ message: {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us",
 			let buff = await getBuffer(ppimg)
 			teks = `🤙 *P R O M O T E  D E T E C T E D*
 			
-      \*◩ නම්බරේ\* ${num.replace('@s.whatsapp.net', '')}
-      \*◩ නම\* @${num.split('@')[0]}
-      \*◩ group එකෙ නම\* ${mdata.subject}
+\*◩ නම්බරේ\* ${num.replace('@s.whatsapp.net', '')}
+\*◩ නම\* @${num.split('@')[0]}
+\*◩ group එකෙ නම\* ${mdata.subject}
 
 *ඇම්ඩා තමයි හොදටම කරෙ🤪⃟💦᭄᭄̊̊̊̊࿔*`
 			alpha.sendMessage(mdata.id, buff, MessageType.image, {thumbnail: buff, caption : teks, contextInfo: {mentionedJid: [num],"forwardingScore":999,"isForwarded":true},sendEphemeral: true , quoted : falfa})
@@ -124,9 +124,9 @@ message: {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us",
 			let buff = await getBuffer(ppimg)
 			teks = `💞 *D E M O T E  D E T E C T E D*
 			
-      \*◩ නම්බරේ\* ${num.replace('@s.whatsapp.net', '')}
-      \*◩ නම\* @${num.split('@')[0]}
-      \*◩ group එකෙ නම\* ${mdata.subject}
+\*◩ නම්බරේ\* ${num.replace('@s.whatsapp.net', '')}
+\*◩ නම\* @${num.split('@')[0]}
+\*◩ group එකෙ නම\* ${mdata.subject}
 
 *ඇම්ඩා තමයි හොදටම කරෙ🤪⃟💦᭄᭄̊̊̊̊࿔*`
 			alpha.sendMessage(mdata.id, buff, MessageType.image, {thumbnail: buff, caption:teks,contextInfo: {mentionedJid: [num],"forwardingScore":999,"isForwarded":true},sendEphemeral: true  , quoted: falfa})
