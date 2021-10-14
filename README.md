@@ -9,7 +9,7 @@
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.</h3>
 <h1>QR එක ගැනිම සදහා මෙය මත Click කරන්න</h1>
 
-<br><a href="https://replit.com/@KIngAmda1/Kinag-Amda-V1" target="_blank"> <img src="https://i.ibb.co/KGJCkrS/qr-.gif" alt="Replit එකෙන් ‍Qr එක ගන්න මෙත්න click කරන්න" /> </a>
+<br><a href="https://replit.com/@KIngAmda1/Kinag-Amda-V1" target="_blank"> <img src="https://i.ibb.co/KGJCkrS/qr-scan." alt="Replit එකෙන් ‍Qr එක ගන්න මෙත්න click කරන්න" /> </a>
 
 # ```Heroku Deploy``` <br><br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kingamdabota/Kingamda-v1)<br>
