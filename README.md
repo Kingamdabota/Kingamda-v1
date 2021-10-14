@@ -9,18 +9,43 @@
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.</h3>
 <h1>QR එක ගැනිම සදහා මෙය මත Click කරන්න</h1>
 
-<br><a href="https://replit.com/@KIngAmda1/Kinag-Amda-V1" target="_blank"> <img src="https://i.ibb.co/KGJCkrS/qr-scan." alt="Replit එකෙන් ‍Qr එක ගන්න මෙත්න click කරන්න" /> </a>
+<br><a href="https://replit.com/@KIngAmda1/Kinag-Amda-V1" target="_blank"> <img src="https://i.ibb.co/KGJCkrS/qr-scan.gif" alt="Replit එකෙන් ‍Qr එක ගන්න මෙත්න click කරන්න" /> </a>
 
-# ```Heroku Deploy``` <br><br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kingamdabota/Kingamda-v1)<br>
-# ```RailWay Deploy``` <br><br>
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FKingamdabota%2FKingamda-v1)
+## `SESSION.json එක වෙනස් කිරිමට`
+
+[`Click Here`](https://github.com/Kingamdabota/Kingamda-v1/blob/main/session.json#L1)
+
+# `Heroku වලට Deploy කිරිමට මෙතනින්` <br><br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com)<br>
+# `RailWay වලට Deploy කිරිමට මෙතනින්` <br><br>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 
+## `CHANGE DYNO`
 
+Web කියලා තියන එක off කරලා Worker කියන එක on කරන්න
 
+----------
 
+<p align="center">
+  <img src="https://a.top4top.io/p_20888ybra1.jpg" />
+</p>
 
+## `Local Host වලට`
+
+```apt-get upgrade
+apt-get update
+apt-get install git
+apt-get install bash
+gitclone https://github.com/Kingamdabota/Kingamda-v1.git
+cd Kingamda-v1
+rm session.json
+bash install.sh
+npm install
+npm audit fix
+npm start
+```
+<h1>Thank For Choose King Amda</h1>
 
 ```King Amda bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
 The user is responsible for all possible consequences of misuse.
@@ -30,62 +55,13 @@ Usage is entirely the responsibility of the user. The operating system is not re
 HAVE A FUN!
 ```
 
+```කිං ඇම්ඩා බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි.
+අනිසි ලෙස භාවිතා කිරීමේ සියලු ප්‍රතිවිපාක සඳහා පරිශීලකයා වගකිව යුතුය.
+මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි.
+භාවිතය සම්පූර්ණයෙන්ම පරිශීලකයාගේ වගකීමකි. මෙහෙයුම් පද්ධතිය වගකිව යුතු නොවේ.
 
-
-# ```SELF-BOT```
-<p align="center">
-<a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/Alphabot7/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Alphabot7?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/Alphabot7/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/Alphabot7?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/Alphabot7/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/Alphabot7?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/Alphabot7"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/zeeoneofc/Alphabot7/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Alphabot7?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofc%2FAlphabot7&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeoneofc/Alphabot7/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-    </p>
-
--------
-
-## `ADD BUILDPACK`
-
-```
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+විනොද වෙන්න!
 ```
 
-## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/session.json#L1)
-
-## `SETTING`
-
-- Owner number [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L4)
-- Owner name [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L13)
-- Botname [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L14)
-
-## `CHANGE DYNO`
-
-Off in web nya
-
-----------
-
-<p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
-</p>
-
-## ```HOW TO DEPLOY```
-
-[`Click Here For Tutorial`](https://youtu.be/_CP2_1Yqauo)<br>
-
-----------
-
-<p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
-</p>
-
-
-## ```COFFEE```
-
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
 
