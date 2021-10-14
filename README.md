@@ -2,11 +2,33 @@
 <img src="https://l.top4top.io/p_2113frzq11.png" />
 
 <h1></h1>
+<p align="center"><img src="/image/kingamda.jpg" alt="javascript" width="500" height="500"/></p>
+<h1></h1>
+<h1 align="center">★彡[👑ᴋɪɴɢ ᴀᴍᴅᴀ👑]彡★</h1><br>
+<h1>QR එක ගැනිම සදහා මෙය මත Click කරන්න</h1>
+<a href="https://replit.com/@KIngAmda1/Kinag-Amda-V1" target="_blank"> <img src="https://i.ibb.co/KGJCkrS/qr-scan.gif" alt="Replit එකෙන් ‍Qr එක ගන්න මෙත්න click කරන්න" /> </a>
 
 # ```Heroku Deploy``` <br><br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kingamdabota/Kingamda-v1)<br>
 # ```RailWay Deploy``` <br><br>
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FKingamdabota%2FKingamda-v1)
+
+
+
+
+
+
+
+```King Amda bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
+The user is responsible for all possible consequences of misuse.
+This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
+Usage is entirely the responsibility of the user. The operating system is not responsible.
+
+HAVE A FUN!
+```
+
+
+
 # ```SELF-BOT```
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
