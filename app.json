@@ -1,11 +1,23 @@
 
+
 {
+  "name": "King Amda What's App Bot",
+  "description": "King Amda Is A what's App User Bot. To make Fun In What's App",
+  "keywords": [
+    "node js",
+    "kingamda",
+    "bot",
+    "whatsappbot"
+  ],
+  "repository": "https://github.com/kingamdabota/kingamda",
+  "logo": "https://i.ibb.co/wWpk18f/LOGO.jpg",
+
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-nodejs"
+      "url": "heroku/nodejs"
     },
-    {
-      "url": "heroku/node.js"
-    }
+     {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    }  
   ]
 }
