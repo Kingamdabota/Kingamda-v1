@@ -10,7 +10,6 @@
   "repository": "https://github.com/kingamdabota/kingamda",
   "logo": "https://i.ibb.co/wWpk18f/LOGO.jpg",
 
-{
   "buildpacks": [
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
