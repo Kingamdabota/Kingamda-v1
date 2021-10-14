@@ -2,11 +2,14 @@
 <img src="https://l.top4top.io/p_2113frzq11.png" />
 
 <h1></h1>
-<p align="center"><img src="/image/kingamda.jpg" alt="javascript" width="500" height="500"/></p>
+<p align="center"><img src="/image/kingamda.jpg" alt="javascript" width="300" height="300"/></p>
 <h1></h1>
-<h1 align="center">★彡[👑ᴋɪɴɢ ᴀᴍᴅᴀ👑]彡★</h1><br>
+<h1 align="center">★彡[👑ᴋɪɴɢ ᴀᴍᴅᴀ👑]彡★</h1>
+<h3 align="center">
+    Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.</h3>
 <h1>QR එක ගැනිම සදහා මෙය මත Click කරන්න</h1>
-<a href="https://replit.com/@KIngAmda1/Kinag-Amda-V1" target="_blank"> <img src="https://i.ibb.co/KGJCkrS/qr-scan.gif" alt="Replit එකෙන් ‍Qr එක ගන්න මෙත්න click කරන්න" /> </a>
+
+<br><a href="https://replit.com/@KIngAmda1/Kinag-Amda-V1" target="_blank"> <img src="https://i.ibb.co/KGJCkrS/qr-.gif" alt="Replit එකෙන් ‍Qr එක ගන්න මෙත්න click කරන්න" /> </a>
 
 # ```Heroku Deploy``` <br><br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kingamdabota/Kingamda-v1)<br>
